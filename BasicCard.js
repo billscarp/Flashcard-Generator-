@@ -1,4 +1,6 @@
-// Create Require variables
+function BasicCard(front, back) {
+	this.front = front;
+	this.back = back;
+}
 
-var BasicCard = require('./BasicCard');
-var inquirer = require('inquirer');
+module.exports = BasicCard;
