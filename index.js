@@ -21,7 +21,9 @@ function checkAnswers(type, answers) {
 		basic_questions.forEach(function(question, index) {
 			if ( answers[keys[index]] == question.back ) {
 				console.log('correct');
-			}
+			}else{
+                console.log('incorrect');
+            }
 		});
 	}
 }
