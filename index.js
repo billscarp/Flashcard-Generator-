@@ -6,7 +6,7 @@ var inquirer = require('inquirer');
 var basic_questions = [
 	new BasicCard("What kind of guitar does Vince Gill love to play?", "A Telecaster"),
 	new BasicCard("What is the name of Eric Clapton's favorite guitar?", "Blackie"),
-	new BasicCard("What is the most popular selling guitar in the world?", "The Fender Stratocaster")
+	new BasicCard("What is the most popular selling guitar in the world?", "A Stratocaster")
 ];
 
 
