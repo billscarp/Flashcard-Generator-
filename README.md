@@ -2,4 +2,4 @@
 Create the backend for a basic flashcard application.
 
 
-![Flashcard-Generator-](images/BasicCard.mov "Flashcard Generator")
+![Flashcard-Generator-](images/BasicCard.gif "Flashcard Generator")
